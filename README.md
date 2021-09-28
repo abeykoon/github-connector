@@ -1,2 +1,2 @@
 # github-connector
-This is a testing Repo
+This is a testing Repo used for ballerina github connector
